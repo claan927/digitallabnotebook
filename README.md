@@ -1,18 +1,20 @@
 # digitallabnotebook
 This is a repo from DLN workshop
 
-# Header
+# Link some of the files here 
 
-## Second Header
+Name in the square brackets and link in the normal brackets. You have to use a space between the different notes. Split out the sentences or it will join everything.
 
-### Third Header
+[Notes about text stuff](text_stuff.md)
 
-###### Sixth header
+[Notes about lists and bullet points](lists_and_bullets.md)
 
-------------------------------
-Type lots of - to add a line 
+[Notes about tables](tables.md)
 
-Another way is to type lots of _s
+Just
+as
+an 
+example
 
-___________________________________________
+
 
