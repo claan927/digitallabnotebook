@@ -11,10 +11,8 @@ Name in the square brackets and link in the normal brackets. You have to use a s
 
 [Notes about tables](tables.md)
 
-Just
-as
-an 
-example
+Link to [Awesome_Protocol 1](Methods/Awesome_protocol1.md)
+
 
 
 
